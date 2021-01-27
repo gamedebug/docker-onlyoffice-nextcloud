@@ -19,12 +19,12 @@
     
 3. 打开浏览器访问localhost，并按界面向导完成快速设置。
 4. 进入本地代码库文件夹执行安装后的设置脚本
-    Linux或macOS系统：
+    - Linux或macOS系统：
     ```
     bash set_configuration.sh
     ```
 
-    Windows系统：
+    - Windows系统：
     ```
     set_configuration.bat
     ```
