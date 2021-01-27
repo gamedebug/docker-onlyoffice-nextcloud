@@ -14,7 +14,7 @@ Document Server (distributed as ONLYOFFICE Docs starting from v.6.0) and Nextclo
 1. Get the latest version of this repository running the command:
 
     ```
-    git clone https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud
+    git clone https://github.com/gamedebug/docker-onlyoffice-nextcloud.git
     cd docker-onlyoffice-nextcloud
     ```
 
@@ -122,7 +122,7 @@ The table below will help you make the right choice.
 
 Official website: [https://www.onlyoffice.com/](https://www.onlyoffice.com/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDockerNC)
 
-Code repository: [https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud](https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud "https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud")
+Code repository: [https://github.com/gamedebug/docker-onlyoffice-nextcloud](https://github.com/gamedebug/docker-onlyoffice-nextcloud "https://github.com/gamedebug/docker-onlyoffice-nextcloud")
 
 
 ## User Feedback and Support
