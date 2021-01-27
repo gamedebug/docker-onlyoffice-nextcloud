@@ -17,7 +17,7 @@
     docker-compose up -d
     ```
     
-3. 打开浏览器访问http://localhost/，依据界面向导完成快速设置。
+3. 打开浏览器访问localhost，并按界面向导完成快速设置。
 4. 进入本地代码库文件夹执行安装后的设置脚本
     Linux或macOS系统：
     ```
