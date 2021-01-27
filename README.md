@@ -1,8 +1,8 @@
 ## 集成Onlyoffice文档服务器的Nextcloud部署
 
 ## 需求
-    * 最新版docker (下载链接：[https://docs.docker.com/engine/installation/][1])
-    * 最新版docker-compose (下载链接：[https://docs.docker.com/compose/install/][2])
+    * 最新版docker (下载链接：https://docs.docker.com/engine/installation/)
+    * 最新版docker-compose (下载链接：https://docs.docker.com/compose/install/)
 
 ## 安装步骤
 
@@ -30,7 +30,3 @@
     ```
 
 现在集成了在线协同办公功能的Nextcloud就部署好了。
-
-
-  [1]: https://docs.docker.com/engine/installation/
-  [2]: https://docs.docker.com/compose/install/
