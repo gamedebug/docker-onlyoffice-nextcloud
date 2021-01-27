@@ -30,12 +30,18 @@ Document Server (distributed as ONLYOFFICE Docs starting from v.6.0) and Nextclo
 
 3. Now launch the browser and enter the webserver address. The Nextcloud wizard webpage will be opened. Enter all the necessary data to complete the wizard.
 
-4. Go to the project folder and run the `set_configuration.sh` script:
+4. Go to the project folder and run the `set_configuration.sh` or `set_configuration.bat`script:
 
     **Please note**: the action must be performed with **root** rights.
 
+    For Linux or macOS shell
     ```
     bash set_configuration.sh
+    ```
+
+    For Windows CMD
+    ```
+    set_configuration.bat
     ```
 
 Now you can enter Nextcloud and create a new document. It will be opened in ONLYOFFICE Document Server.
